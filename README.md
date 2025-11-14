@@ -44,7 +44,7 @@ npm install -g expo-cli
 ```
 ### 3️⃣ Clonar o Repositório
 ```
-git clone <URL_DO_REPOSITORIO>
+git clone https://github.com/joaoestella/DataWork.git
 ```
 ```
 cd DataWork
